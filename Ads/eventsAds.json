@@ -1,0 +1,34 @@
+[
+  {
+    "productId": 1,
+    "title": "Final Year Project Defense",
+    "month": "FEB",
+    "day": "27",
+    "discription": "Faculty of Science, University of Ibadan, Ibadan, Nigeria",
+    "Link": "#"
+  },
+  {
+    "productId": 2,
+    "title": "Temi Tire Iwo Temi",
+    "month": "FEB",
+    "day": "24",
+    "discription": "Alumni Hall",
+    "Link": "#"
+  },
+  {
+    "productId": 3,
+    "title": "Unplug & Unwind",
+    "month": "DEC",
+    "day": "7",
+    "discription": "Awo Stadium",
+    "Link": "#"
+  },
+  {
+    "productId": 4,
+    "title": "BioInfomatics Book Launch",
+    "month": "JUN",
+    "day": "25",
+    "discription": "KDLT, Computer Science, Science, UI",
+    "Link": "#"
+  }
+]
